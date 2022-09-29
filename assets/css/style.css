@@ -1,0 +1,31 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../img/patxi-olaeta-3bpKvzknix0-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vh;
+}
+header{
+    display: flex;
+    background-color: rgba(12, 12, 12, 0.582);
+    height: 4.5rem;
+    width: 100vw;
+    color: rgba(255, 255, 255, 0.76);
+    gap: 70%;
+}
+nav{
+    align-self: center;
+    justify-content: right;
+    width: 35vh;
+    word-spacing: 1rem;
+
+}
+div{
+  margin: 1rem;
+}
